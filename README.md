@@ -36,9 +36,15 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
   and to !!!!IMPORTANT!!!! import the library for the linker: odbc32.lib;odbccp32.lib;winscard.lib;%(AdditionalDependencies)<br />
   ![Visual studio setting 2](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/vslinker.png?raw=true "Visual studio setting 2")
   
-  
-  
+<br />
+<br />
   \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- **Working example**   \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-<br />
  
    ![GIF](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/working.gif?raw=true "GIF")
+   
+<br />
+<br />
+     \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- **Other**   \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-<br />
+Here another super-usefull (and working) example of project with PC/SC
+   http://www.smartcard-magic.net/en/pc-sc-reader/winscard-api-c-c/
  
