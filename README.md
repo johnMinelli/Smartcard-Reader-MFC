@@ -9,7 +9,7 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
 **FOR USERs(USAGE):**<br />
   Probabily you will need to install the Driver for your specific reader. Also i setted my driver configuration in windows device mgmt as it follow<br />
 
-  ![Alt text](https://github.com/johnMinelli/Smartcard-Reader-MFC/images/devices.png?raw=true "device settings")
+  ![Device settings](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/devices.png?raw=true "Device settings")
 
   Note that the sle5542 and sle4442 are comaptible (see spec for details)
   Unfortunately my reader's driver supported only up to the 5532 so i selected the one compatible with my card's chip.
@@ -28,7 +28,14 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
   -ACS manuals with more commands and specifications (relative to the ACR38 and ACR39 readers)<br />
 
   If you want to import the project in your solution be sure to enable the precompiled header option<br />
-  ![Alt text](https://github.com/johnMinelli/Smartcard-Reader-MFC/images/vscpp.png?raw=true "visual studio setting 1")
+  ![Visual studio setting 1](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/vscpp.png?raw=true "Visual studio setting 1")
 
   and to !!!!IMPORTANT!!!! import the library for the linker: odbc32.lib;odbccp32.lib;winscard.lib;%(AdditionalDependencies)<br />
-  ![Alt text](https://github.com/johnMinelli/Smartcard-Reader-MFC/images/vslinker.png?raw=true "visual studio setting 2")
+  ![Visual studio setting 2](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/vslinker.png?raw=true "Visual studio setting 2")
+  
+  
+  
+ **Working example**
+ 
+   ![GIF](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/working.gif?raw=true "GIF")
+ 
