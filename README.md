@@ -6,7 +6,7 @@ It use the PC/SC driver for the communication (the winscard library in the syste
 The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested with the ACS-ACR38X with a card SLE5542
 
 
-**FOR USERs(USAGE):**
+**FOR USERs(USAGE):**<br />
   Probabily you will need to install the Driver for your specific reader. Also i setted my driver configuration in windows device mgmt as it follow<br />
 
   ![Alt text](https://github.com/johnMinelli/Smartcard-Reader-MFC/images/devices.png?raw=true "device settings")
@@ -22,10 +22,10 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
 
   More commands in the documentation file of the reader provided by ACS
 
-**FOR DEVELOPERs:**
-  In the doc folder you can find:
-  -Documentation about the chip of the card used by me for testing
-  -ACS manuals with more commands and specifications (relative to the ACR38 and ACR39 readers)
+**FOR DEVELOPERs:**<br />
+  In the doc folder you can find:<br />
+  -Documentation about the chip of the card used by me for testing<br />
+  -ACS manuals with more commands and specifications (relative to the ACR38 and ACR39 readers)<br />
 
   If you want to import the project in your solution be sure to enable the precompiled header option<br />
   ![Alt text](https://github.com/johnMinelli/Smartcard-Reader-MFC/images/vscpp.png?raw=true "visual studio setting 1")
