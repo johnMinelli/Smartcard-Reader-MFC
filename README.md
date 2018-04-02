@@ -7,6 +7,7 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
 
 
 **FOR USERs(USAGE):**<br />
+--
   Probabily you will need to install the Driver for your specific reader. Also i setted my driver configuration in windows device mgmt as it follow<br />
 
   ![Device settings](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/devices.png?raw=true "Device settings")
@@ -22,7 +23,9 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
 
   More commands in the documentation file of the reader provided by ACS
 
+
 **FOR DEVELOPERs:**<br />
+--
   In the doc folder you can find:<br />
   -Documentation about the chip of the card used by me for testing<br />
   -ACS manuals with more commands and specifications (relative to the ACR38 and ACR39 readers)<br />
@@ -34,7 +37,7 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
   ![Visual studio setting 2](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/vslinker.png?raw=true "Visual studio setting 2")
   
   
-  
+  \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
  **Working example**
  
    ![GIF](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/working.gif?raw=true "GIF")
