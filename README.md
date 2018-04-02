@@ -37,8 +37,8 @@ The project is builded with Visual Studio 17  ( Windows vc70 32bit), and tested 
   ![Visual studio setting 2](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/vslinker.png?raw=true "Visual studio setting 2")
   
   
-  \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
- **Working example**
+  
+  \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\- **Working example**   \-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-<br />
  
    ![GIF](https://github.com/johnMinelli/Smartcard-Reader-MFC/blob/master/images/working.gif?raw=true "GIF")
  
